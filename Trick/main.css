@@ -3,5 +3,8 @@
     }
 .list_element:hover {
     font-style: "System";
-    font-size: "42";
+    font-size: 42;
+}
+.no_a {
+    text-decoration: none;
 }
