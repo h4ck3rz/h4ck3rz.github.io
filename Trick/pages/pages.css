@@ -1,14 +1,14 @@
-POST_BOX {
+.POST_BOX {
   background-color: blue;
 }
-POST {
+.POST {
   background-color: green;
   border: 2px;
   border-color: red;
 }
-TITLE {
+.TITLE {
   color:#9500bf;
 }
-ptext {
+.ptext {
   font-size: 25;
 }
