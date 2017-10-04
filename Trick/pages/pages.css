@@ -1,0 +1,14 @@
+POST_BOX {
+  background-color: blue;
+}
+POST {
+  background-color: green;
+  border: 2px;
+  border-color: red;
+}
+TITLE {
+  color:#9500bf;
+}
+ptext {
+  font-size: 25;
+}
