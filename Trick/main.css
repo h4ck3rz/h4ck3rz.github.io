@@ -1,3 +1,7 @@
 .section_main {
     background-color: "black"
     }
+.list_element:hover {
+    font-style: "System";
+    font-size: "42";
+}
