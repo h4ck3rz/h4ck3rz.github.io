@@ -12,3 +12,8 @@
 .ptext {
   font-size: 25px solid white;
 }
+.navv {
+  display: inline;
+  text-decoration: none;
+  color: green;
+}
