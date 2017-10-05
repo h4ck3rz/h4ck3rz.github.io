@@ -3,12 +3,12 @@
 }
 .POST {
   background-color: green;
-  border: 2px;
+  border: 2px solid white;
   border-color: red;
 }
 .TITLE {
   color:#9500bf;
 }
 .ptext {
-  font-size: 25px;
+  font-size: 25px solid white;
 }
