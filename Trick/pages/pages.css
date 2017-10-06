@@ -1,5 +1,6 @@
 .POST_BOX {
   background-color: blue;
+  border-radius: 14px;
 }
 .POST {
   background-color: green;
