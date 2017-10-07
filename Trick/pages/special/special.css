@@ -15,10 +15,8 @@
 }
 .imgbox {
   border:2px solid white;
-  display:inline;
 }
 .HeroText {
-  display:inline;
   border: 2px solid blue;
   color: black;
   font-size: 20;
