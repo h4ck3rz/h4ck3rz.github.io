@@ -15,9 +15,14 @@
 }
 .imgbox {
   border:2px solid white;
+  width: 80px;
 }
 .HeroText {
   border: 2px solid blue;
   color: black;
   font-size: 20;
+}
+.userimage {
+  width: 80;
+  height: 80;
 }
