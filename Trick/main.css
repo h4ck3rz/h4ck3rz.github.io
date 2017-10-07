@@ -8,6 +8,7 @@
 .list_element {
     display:inline;
     font-size:42;
+    border:2px solid red;
 }
 .no_a {
     text-decoration: none;
