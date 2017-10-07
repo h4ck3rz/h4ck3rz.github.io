@@ -5,6 +5,10 @@
     font-style: "System";
     font-size: 42;
 }
+.list_element {
+    display:inline;
+    font-size:42;
+}
 .no_a {
     text-decoration: none;
 }
