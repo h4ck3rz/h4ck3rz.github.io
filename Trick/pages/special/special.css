@@ -12,6 +12,7 @@
   text-align:center;
   color:red;
   font-size: 35;
+  border: 2px solid red;
 }
 .imgbox {
   border:2px solid white;
