@@ -44,4 +44,5 @@
 .oNavA {
   text-decoration:none;
   list-style:none;
+  border:2px solid red;
 }
