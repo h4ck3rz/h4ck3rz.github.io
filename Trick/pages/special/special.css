@@ -27,3 +27,21 @@
   width: 80;
   height: 80;
 }
+.oTitlenav {
+  display:inline;
+  background-color:green;
+  border:2px solid white;
+}
+.oTitleMain {
+  color:green;
+  border: 2px solid white;
+  border-radius:14px;
+}
+.oSecInfo {
+  background-color:black;
+  border-radius: 10px;
+}
+.oNavA {
+  text-decoration:none;
+  list-style:none;
+}
