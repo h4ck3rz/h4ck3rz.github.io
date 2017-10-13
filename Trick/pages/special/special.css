@@ -50,3 +50,6 @@
 .wtext {
  color:white;
 }
+nav ul li {
+ display:inline; 
+}
