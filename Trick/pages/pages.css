@@ -17,6 +17,7 @@
   display: inline;
   text-decoration: none;
   color: green;
+  list-style: none;
 }
 .info {
    border: 4px solid white;
